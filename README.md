@@ -5,7 +5,7 @@
 
   1. The Impact of Field of Study in College on Individual's Employment Dynamics and Wage Trajectories.
   2. Exposure of Workplace Age Discrimination and Psychological Wellbeings of Aging Workers.
-  3. Exploring Structural Balance in Temporal Signed Networks Among High School Students.
+  3. Exploring Temporal Signed Networks Patterns Among Taiwanese High School Students.
   
 - 📫 kuo.355@buckeyemail.osu.edu | www.linkedin.com/in/mei-yu-kuo-456a81301 | X/Twitter @mei_yu_kuo
   
