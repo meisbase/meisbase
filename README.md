@@ -7,7 +7,7 @@
   2. Exposure of Workplace Age Discrimination and Psychological Wellbeings of Aging Workers.
   3. Exploring Structural Balance in Temporal Signed Networks Among High School Students.
   
-- 📫 kuo.355@buckeyemail.osu.edu | linkedin.com/in/mei-yu-kuo-456a81301 | X/Twitter @mei_yu_kuo
+- 📫 kuo.355@buckeyemail.osu.edu | www.linkedin.com/in/mei-yu-kuo-456a81301 | X/Twitter @mei_yu_kuo
   
 - ⚡ Fun fact 1 : Currently a Soc/Demography PhD student. 
 - ⚡ Fun fact 2 : Plant parent of a swiss cheese plan named Kiwi 🌱.
