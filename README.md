@@ -3,7 +3,7 @@
 - Computational social scientist, specializing in time-series analysis on labor market and health dynamics. 
 - In-progress projects
 
-  1. The Impact of Field of Study in College on Individual's Employment Dynamics and Wage Trajectories.
+  1. The Impact of Field of Study in College on Individual's Employment Dynamics and Gender Wage Gap.
   2. Exposure of Workplace Age Discrimination and Psychological Wellbeings of Aging Workers.
   3. Exploring Temporal Signed Networks Patterns Among Taiwanese High School Students.
   
