@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Mei (She/her). Welcome to @meisbase!
 
-- Computational social scientist, specializing in time-series analysis on labor market and health dynamics. 
+- Sociologist studying labor market and health dynamics. 
 - In-progress projects
 
   1. The Impact of Field of Study in College on Individual's Employment Dynamics and Gender Wage Gap.
@@ -10,7 +10,7 @@
 - 📫 kuo.355@buckeyemail.osu.edu | www.linkedin.com/in/mei-yu-kuo-456a81301 | X/Twitter @mei_yu_kuo
   
 - ⚡ Fun fact 1 : Currently a Soc/Demography PhD student. 
-- ⚡ Fun fact 2 : Plant parent of a swiss cheese plan named Kiwi 🌱.
+- ⚡ Fun fact 2 : Plant parent 🌱.
 - ⚡ Fun fact 3 : Recently broke my PR in squatting! 
 
 <!---
