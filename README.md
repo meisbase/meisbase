@@ -4,8 +4,8 @@
 - In-progress projects
 
   1. The Impact of Field of Study in College on Individual's Employment Dynamics and Gender Wage Gap.
-  2. Exposure of Workplace Age Discrimination and Psychological Wellbeings of Aging Workers.
-  3. Exploring Temporal Signed Networks Patterns Among Taiwanese High School Students.
+  2. Exposure of Workplace Discrimination and Workers' Psychological Wellbeings.
+  3. The Implication of Family and Couple Dynamics and Household/Gender Income Inequality.
   
 - 📫 kuo.355@buckeyemail.osu.edu | www.linkedin.com/in/mei-yu-kuo-456a81301 | X/Twitter @mei_yu_kuo
   
