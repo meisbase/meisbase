@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Mei (She/her). Welcome to @meisbase!
 
-- Sociologist studying labor market and health dynamics. 
+- Sociologist studying labor market and population health dynamics. 
 - Research Directions :
 
-  1. The Impact of College Education on Individual's Family and Employment Trajectories.
-  2. Exposure of Workplace Discrimination and Workers' Psychological Wellbeings.
-  3. The Implication of Family and Couple Dynamics on Household/Gender Income Inequality.
+  1. The Implication of Family and Couple Dynamics on Household/Gender Income Inequality. 
+  2. The Impact of College Education on Individual's Family and Employment Trajectories.
+  3. Exposure of Workplace Discrimination and Workers' Psychological Wellbeings.
   
 - 📫 kuo.355@buckeyemail.osu.edu | www.linkedin.com/in/mei-yu-kuo-456a81301 | X/Twitter @mei_yu_kuo
   
